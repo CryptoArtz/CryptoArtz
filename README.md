@@ -1,8 +1,10 @@
-## CryptoArtz Profile, that's my profile
+<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="https://www.flaticon.com/premium-icon/icons/svg/1797/1797511.svg" ></p>
+<div>
+  <h1 align="center">CryptoArtz Profile, that's my profile</h1>
 <div align="center">
   <a href="https://github.com/CryptoArtz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CryptoArtz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github.com/CryptoArtz/images/blob/main/h264-1--unscreen.gif"/>
+ <img height="200em"src="https://github.com/CryptoArtz/images/blob/main/h264-1--unscreen.gif"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +14,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://github.com/CryptoArtz/images/blob/main/globe-900.h264(1).gif">
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://github.com/CryptoArtz/images/blob/main/globe-900.h264(1)(2).gif">
 </div>
   
   ##
