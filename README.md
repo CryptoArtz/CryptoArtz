@@ -10,7 +10,7 @@
   <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Github" height="39" width="40" src="https://github.com/duribeiro/duribeiro/blob/main/assets/GitHub.png">
    <img align="center" alt="C" height="38" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://gifimage.net/wp-content/uploads/2017/06/matrix-gif-3.gif">
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://gifimage.net/wp-content/uploads/2017/06/hacker-gif-1.gif">
 </div>
   
   ##
