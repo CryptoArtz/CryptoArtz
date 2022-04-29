@@ -10,13 +10,13 @@
   <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Github" height="39" width="40" src="https://github.com/duribeiro/duribeiro/blob/main/assets/GitHub.png">
    <img align="center" alt="C" height="38" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://github.com/CryptoArtz/images/blob/main/globe-900.h264(1)(2).gif">
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://gifimage.net/wp-content/uploads/2017/06/matrix-gif-3.gif">
 </div>
   
   ##
  
-<div>  
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div> 
+  <a href = "mailto:6BsvX88Y@protonmail.com"><img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
